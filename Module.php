@@ -1,6 +1,5 @@
 <?php
-
-namespace ZfcBase;
+namespace NnovIt\Base;
 
 use Zend\ModuleManager\Feature\AutoloaderProviderInterface;
 
