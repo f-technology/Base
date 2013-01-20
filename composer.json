@@ -1,5 +1,5 @@
 {
-    "name": "f-technology/base",
+    "name": "nnov-it/base",
     "autoload": {
         "psr-0": {
             "Base": "src/"
