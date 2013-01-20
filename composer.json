@@ -1,0 +1,11 @@
+{
+    "name": "f-technology/base",
+    "autoload": {
+        "psr-0": {
+            "Base": "src/"
+        },
+        "classmap": [
+            "./Module.php"
+        ]
+    }
+}
